@@ -1,0 +1,5 @@
+rootProject.name='Multi Module Navigation'
+include ':app'
+include ':features:second'
+include ':features:third'
+include ':features:fourth'
